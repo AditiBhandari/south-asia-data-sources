@@ -45,3 +45,6 @@ ___
 ### Wind patterns
 * [Windy](https://www.windy.com/?27.242,76.778,8)
 * [Earth.NullSchool](https://earth.nullschool.net/#current/wind/surface/level/orthographic=-282.52,25.92,1541/loc=76.176,26.928)
+
+___
+Need some help finding a story in this data? Check out our growing [list of data-tools](https://github.com/HindustanTimesLabs/data-tools) we've used and recommend.
