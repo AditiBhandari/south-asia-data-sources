@@ -12,6 +12,8 @@ ___
 ## Elections
 * [Lok Dhaba](http://lokdhaba.ashoka.edu.in/LokDhaba-Shiny/): Browse and download general and assembly elections data, courtesy of the Trivedi Centre for Political Data at Ashoka University.
 
+## Energy
+* [Council on Energy, Environment and Water](https://www.ceew.in/publications): A South Asian non-profit policy research institution
 
 ## Tourism
 * [Ministry of Tourism](http://tourism.gov.in/market-research-and-statistics)
