@@ -9,11 +9,18 @@ ___
 * [Indian Government data dashboard](https://data.gov.in/)
 
 ___
+## Art and entertainment
+* [BoxOfficeMojo](https://www.boxofficemojo.com/)
+* [BookMyShow](https://in.bookmyshow.com/)
+
 ## Elections
 * [Lok Dhaba](http://lokdhaba.ashoka.edu.in/LokDhaba-Shiny/): Browse and download general and assembly elections data, courtesy of the Trivedi Centre for Political Data at Ashoka University.
 
 ## Energy
 * [Council on Energy, Environment and Water](https://www.ceew.in/publications): A South Asian non-profit policy research institution
+
+## Health
+* [National Family Health Survey](http://rchiips.org/NFHS/factsheet_NFHS-4.shtml)
 
 ## Tourism
 * [Ministry of Tourism](http://tourism.gov.in/market-research-and-statistics)
