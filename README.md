@@ -13,6 +13,9 @@ ___
 * [BoxOfficeMojo](https://www.boxofficemojo.com/)
 * [BookMyShow](https://in.bookmyshow.com/)
 
+## Economy
+* [Centre for Monitoring Indian Economy](https://www.cmie.com/)
+
 ## Elections
 * [Lok Dhaba](http://lokdhaba.ashoka.edu.in/LokDhaba-Shiny/): Browse and download general and assembly elections data, courtesy of the Trivedi Centre for Political Data at Ashoka University.
 
