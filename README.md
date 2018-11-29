@@ -7,6 +7,7 @@ ___
 
 ## General data sources
 * [Indian Government data dashboard](https://data.gov.in/)
+* [Ministry of Statistics and Programme Implementation](http://www.mospi.gov.in/)
 
 ___
 ## Art and entertainment
@@ -18,6 +19,7 @@ ___
 
 ## Elections
 * [Lok Dhaba](http://lokdhaba.ashoka.edu.in/LokDhaba-Shiny/): Browse and download general and assembly elections data, courtesy of the Trivedi Centre for Political Data at Ashoka University.
+* [Election Commission of India](https://eci.gov.in/statistical-report/statistical-reports/): Download general and assembly election result data, available in PDF and Excel formats.
 
 ## Energy
 * [Council on Energy, Environment and Water](https://www.ceew.in/publications): A South Asian non-profit policy research institution
