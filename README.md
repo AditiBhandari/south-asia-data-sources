@@ -24,6 +24,13 @@ ___
 ## Energy
 * [Council on Energy, Environment and Water](https://www.ceew.in/publications): A South Asian non-profit policy research institution
 
+## Environment and nature
+
+### Wildlife
+* [Wildlife Protection Society of India](http://www.wpsi-india.org/crime_maps/index.php)
+* [Wildlife Crime Control Bureau](http://wccb.gov.in/index.aspx)
+* [Ministry of Environment, Forest and Climate Change](http://www.moef.nic.in/publications-report): Publications and Reports
+
 ## Health
 * [National Family Health Survey](http://rchiips.org/NFHS/factsheet_NFHS-4.shtml)
 
