@@ -17,10 +17,6 @@ ___
 ## Economy
 * [Centre for Monitoring Indian Economy](https://www.cmie.com/)
 
-## Elections
-* [Lok Dhaba](http://lokdhaba.ashoka.edu.in/LokDhaba-Shiny/): Browse and download general and assembly elections data, courtesy of the Trivedi Centre for Political Data at Ashoka University.
-* [Election Commission of India](https://eci.gov.in/statistical-report/statistical-reports/): Download general and assembly election result data, available in PDF and Excel formats.
-
 ## Energy
 * [Council on Energy, Environment and Water](https://www.ceew.in/publications): A South Asian non-profit policy research institution
 
@@ -33,6 +29,21 @@ ___
 
 ## Health
 * [National Family Health Survey](http://rchiips.org/NFHS/factsheet_NFHS-4.shtml)
+
+## Politics and government
+
+### Elections
+* [Lok Dhaba](http://lokdhaba.ashoka.edu.in/LokDhaba-Shiny/): Browse and download general and assembly elections data, courtesy of the Trivedi Centre for Political Data at Ashoka University.
+* [Election Commission of India](https://eci.gov.in/statistical-report/statistical-reports/): Download general and assembly election result data, available in PDF and Excel formats.
+
+### Government
+* [PM Modi's speeches](http://pib.nic.in/PMContents/PMContents.aspx?menuid=2&Lang=1&RegionId=1)
+
+## Technology
+* [Facebook Transparency Report](https://transparency.facebook.com/government-data-requests/country/IN)
+
+## Terrorism
+* [South Asian Terrorism Portal](http://www.satp.org/datasheet-terrorist-attack/india)
 
 ## Tourism
 * [Ministry of Tourism](http://tourism.gov.in/market-research-and-statistics)
