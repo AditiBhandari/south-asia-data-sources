@@ -29,6 +29,7 @@ ___
 
 ## Health
 * [National Family Health Survey](http://rchiips.org/NFHS/factsheet_NFHS-4.shtml)
+* [US Travel Advisories](https://wwwnc.cdc.gov/travel/notices)
 
 ## Politics and government
 
