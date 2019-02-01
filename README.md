@@ -14,8 +14,15 @@ ___
 * [BoxOfficeMojo](https://www.boxofficemojo.com/)
 * [BookMyShow](https://in.bookmyshow.com/)
 
+## Education
+* [National Achievement Survey](http://nas.schooleduinfo.in/dashboard/nas_ncert#/): Data on the performance of students in classes 3, 5 and 8
+* [School Report Cards](http://schoolreportcards.in/SRC-New/)
+
 ## Economy
 * [Centre for Monitoring Indian Economy](https://www.cmie.com/)
+* [Union Budget](https://www.indiabudget.gov.in/)
+* [Reserve Bank of India](https://rbi.org.in/Scripts/Statistics.aspx): A list of RBI data releases
+** [Database on Indian Economy](https://dbie.rbi.org.in/DBIE/dbie.rbi?site=home): RBI's database of the Indian economy (banking, price,s income etc.)
 
 ## Energy
 * [Council on Energy, Environment and Water](https://www.ceew.in/publications): A South Asian non-profit policy research institution
