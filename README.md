@@ -22,7 +22,7 @@ ___
 * [Centre for Monitoring Indian Economy](https://www.cmie.com/)
 * [Union Budget](https://www.indiabudget.gov.in/)
 * [Reserve Bank of India](https://rbi.org.in/Scripts/Statistics.aspx): A list of RBI data releases
-** [Database on Indian Economy](https://dbie.rbi.org.in/DBIE/dbie.rbi?site=home): RBI's database of the Indian economy (banking, price,s income etc.)
+    * [Database on Indian Economy](https://dbie.rbi.org.in/DBIE/dbie.rbi?site=home): RBI's database of the Indian economy (banking, price,s income etc.)
 
 ## Energy
 * [Council on Energy, Environment and Water](https://www.ceew.in/publications): A South Asian non-profit policy research institution
@@ -37,6 +37,7 @@ ___
 ## Health
 * [National Family Health Survey](http://rchiips.org/NFHS/factsheet_NFHS-4.shtml)
 * [US Travel Advisories](https://wwwnc.cdc.gov/travel/notices)
+* [Weekly Disease Outbreaks](https://idsp.nic.in/index4.php?lang=1&level=0&linkid=406&lid=3689): The National Centre for Disease Control publishes weekly summaries of disease outbreaks in the country
 
 ## Politics and government
 
