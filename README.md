@@ -20,11 +20,14 @@ ___
 
 ## Education
 * [National Achievement Survey](http://nas.schooleduinfo.in/dashboard/nas_ncert#/): Data on the performance of students in classes 3, 5 and 8
-* [School Report Cards](http://schoolreportcards.in/SRC-New/)
+* [School Report Cards](http://schoolreportcards.in/SRC-New/) from U-DISE: Database of all public and private schools in the country.
+* Delhi Government Edudel portal: [Daily attendance of students and teachers in the city's government schools](http://www.edudel.nic.in/mis/eis/attendance/frmAttendanceLink.HTML) and [details on government schools in Delhi](http://www.edudel.nic.in/mis/schoolplant/school_information.htm) 
 
 ## Economy
 * [Centre for Monitoring Indian Economy](https://www.cmie.com/)
+* [Agmarket](http://agmarknet.gov.in/): Database on the MSPs of several commodities in different Indian markets.
 * [Union Budget](https://www.indiabudget.gov.in/)
+* [Open Budgets India](https://openbudgetsindia.org/): Repository for state government budgets
 * [Reserve Bank of India](https://rbi.org.in/Scripts/Statistics.aspx): A list of RBI data releases
     * [Database on Indian Economy](https://dbie.rbi.org.in/DBIE/dbie.rbi?site=home): RBI's database of the Indian economy (banking, price,s income etc.)
 
@@ -46,11 +49,16 @@ ___
 ## Politics and government
 
 ### Elections
-* [Lok Dhaba](http://lokdhaba.ashoka.edu.in/LokDhaba-Shiny/): Browse and download general and assembly elections data, courtesy of the Trivedi Centre for Political Data at Ashoka University
-* [Election Commission of India](https://eci.gov.in/statistical-report/statistical-reports/): Download general and assembly election result data, available in PDF and Excel formats
+* [Lok Dhaba](http://lokdhaba.ashoka.edu.in/LokDhaba-Shiny/): Browse and download general and assembly elections data, courtesy of the Trivedi Centre for Political Data at Ashoka University.
+* [Election Commission of India](https://eci.gov.in/statistical-report/statistical-reports/): Download general and assembly election result data, available in PDF and Excel formats.
+* [My Neta](http://myneta.info/): Database by the Association for Democratic Reforms with details of all candidates in local, state and national elections.
+* [Election Affidavit Archive](http://affidavitarchive.nic.in/): Check the affidavits for State and Parliamentary Elections.
 
 ### Government
 * [PM Modi's speeches](http://pib.nic.in/PMContents/PMContents.aspx?menuid=2&Lang=1&RegionId=1)
+* [Rajya Sabha Q&A](http://164.100.47.5/qsearch/qsearch.aspx)
+* [Lok Sabha Q&A](http://164.100.47.194/Loksabha/Questions/Qtextsearch.aspx)
+* [PRS Database on MPs](http://www.prsindia.org/mptrack): See attendance and participation for every Member of the Parliament
 
 ## Technology
 * [Facebook Transparency Report](https://transparency.facebook.com/government-data-requests/country/IN)
@@ -65,6 +73,7 @@ ___
 ## Transportation
 * [Open Street Data: Delhi](https://otd.delhi.gov.in/data/static/): IIT-Delhi and Delhi's Department of Transportation provides static data on transit and makes real-time data available for download
 * [FlightAware](https://uk.flightaware.com/): International flight tracking data and information
+* [Open Transit Delhi](https://otd.delhi.gov.in/): Real time data on buses in Delhi
 
 ## Weather and climate
 
