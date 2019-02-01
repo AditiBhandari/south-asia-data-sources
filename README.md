@@ -16,7 +16,7 @@ ___
 
 ## Crime
 * [ZipNet Project](http://zipnet.in/): ZipNet collects data from a handful of states about [stolen vehicles](http://zipnet.in/index.php?page=stolen_vehicles), [unclaimed/seized vehicles](http://zipnet.in/index.php?page=un_identified_vehicles_search&criteria=browse_all) and [missing mobile phones](http://zipnet.in/index.php?page=missing_mobile_phones).
-    (cw: death/dead bodies, mental illness – this portal also has databases of unidentified dead bodies with their photos, and unidentified found people with references to mental illness.)
+    (cw: death/dead bodies, mental illness – this portal also has databases of unidentified dead bodies with their photos, and unidentified found people with references to mental illness)
 
 ## Education
 * [National Achievement Survey](http://nas.schooleduinfo.in/dashboard/nas_ncert#/): Data on the performance of students in classes 3, 5 and 8
@@ -46,8 +46,8 @@ ___
 ## Politics and government
 
 ### Elections
-* [Lok Dhaba](http://lokdhaba.ashoka.edu.in/LokDhaba-Shiny/): Browse and download general and assembly elections data, courtesy of the Trivedi Centre for Political Data at Ashoka University.
-* [Election Commission of India](https://eci.gov.in/statistical-report/statistical-reports/): Download general and assembly election result data, available in PDF and Excel formats.
+* [Lok Dhaba](http://lokdhaba.ashoka.edu.in/LokDhaba-Shiny/): Browse and download general and assembly elections data, courtesy of the Trivedi Centre for Political Data at Ashoka University
+* [Election Commission of India](https://eci.gov.in/statistical-report/statistical-reports/): Download general and assembly election result data, available in PDF and Excel formats
 
 ### Government
 * [PM Modi's speeches](http://pib.nic.in/PMContents/PMContents.aspx?menuid=2&Lang=1&RegionId=1)
@@ -63,6 +63,7 @@ ___
 * [Indian UNESCO Heritage Sites](https://whc.unesco.org/en/soc/?action=list&id_search_state=73)
 
 ## Transportation
+* [Open Street Data: Delhi](https://otd.delhi.gov.in/data/static/): IIT-Delhi and Delhi's Department of Transportation provides static data on transit and makes real-time data available for download
 * [FlightAware](https://uk.flightaware.com/): International flight tracking data and information
 
 ## Weather and climate
@@ -76,12 +77,12 @@ ___
 * [National Air Quality Index for India](http://pib.nic.in/newsite/PrintRelease.aspx?relid=110654)
 
 #### Other
-* [Air Quality Life Index](https://aqli.epic.uchicago.edu/the-index/): Global data on the analysis of air quality and life expectancy by the Energy Policy Institute at the University of Chicago.
+* [Air Quality Life Index](https://aqli.epic.uchicago.edu/the-index/): Global data on the analysis of air quality and life expectancy by the Energy Policy Institute at the University of Chicago
 * [Urban Emissions](http://www.urbanemissions.info/)
 * [AirNow](https://cfpub.epa.gov/airnow/index.cfm?action=airnow.global_summary#India$New_Delhi): Daily PM2.5 levels at US consulates and embassies
 
 ### Fires
-* [NASA FIRMS active fire data](https://firms.modaps.eosdis.nasa.gov/active_fire/#firms-txt): A global dataset of active fires in the world in the last seven days. Use VIIRS data for greater accuracy, available as .csv, .shp and .kml files.
+* [NASA FIRMS active fire data](https://firms.modaps.eosdis.nasa.gov/active_fire/#firms-txt): A global dataset of active fires in the world in the last seven days. Use VIIRS data for greater accuracy, available as .csv, .shp and .kml files
     * FIRMS archive download](https://firms.modaps.eosdis.nasa.gov/download/): For data older than the last week
 
 ### Precipitation and rainfall
@@ -90,7 +91,7 @@ ___
 * [US NOAA](https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/by_year/): Daily precipitation data for thousands of stations across India
 
 ### Satellite imagery
-[NASA EOSDIS Worldview](https://worldview.earthdata.nasa.gov/?p=geographic&l=VIIRS_SNPP_CorrectedReflectance_TrueColor,VIIRS_SNPP_Fires_375m_Day,VIIRS_SNPP_Fires_375m_Night,Reference_Labels,Reference_Features&t=2018-11-06-T00%3A00%3A00Z&z=3&v=70.08912954288722,24.331281730634156,83.72832866837187,32.74995981153676&ab=off&as=2012-08-23T00%3A00%3A00Z&ae=2012-08-30T00%3A00%3A00Z&av=3&al=true): World satellite images available as .jpegs and .tiffs.
+[NASA EOSDIS Worldview](https://worldview.earthdata.nasa.gov/?p=geographic&l=VIIRS_SNPP_CorrectedReflectance_TrueColor,VIIRS_SNPP_Fires_375m_Day,VIIRS_SNPP_Fires_375m_Night,Reference_Labels,Reference_Features&t=2018-11-06-T00%3A00%3A00Z&z=3&v=70.08912954288722,24.331281730634156,83.72832866837187,32.74995981153676&ab=off&as=2012-08-23T00%3A00%3A00Z&ae=2012-08-30T00%3A00%3A00Z&av=3&al=true): World satellite images available as .jpegs and .tiffs
 
 ### Wind patterns
 * [Windy](https://www.windy.com/?27.242,76.778,8)
