@@ -15,7 +15,8 @@ ___
 * [BookMyShow](https://in.bookmyshow.com/)
 
 ## Crime
-* [ZipNet Project](http://zipnet.in/): ZipNet collects data from a handful of states about [stolen vehicles](http://zipnet.in/index.php?page=stolen_vehicles), [unclaimed/seized vehicles](http://zipnet.in/index.php?page=un_identified_vehicles_search&criteria=browse_all) and [missing mobile phones](http://zipnet.in/index.php?page=missing_mobile_phones). (cw: death/dead bodies, mental illness – this portal also has databases of unidentified dead bodies with their photos, and unidentified found people with references to mental illness.)
+* [ZipNet Project](http://zipnet.in/): ZipNet collects data from a handful of states about [stolen vehicles](http://zipnet.in/index.php?page=stolen_vehicles), [unclaimed/seized vehicles](http://zipnet.in/index.php?page=un_identified_vehicles_search&criteria=browse_all) and [missing mobile phones](http://zipnet.in/index.php?page=missing_mobile_phones).
+    (cw: death/dead bodies, mental illness – this portal also has databases of unidentified dead bodies with their photos, and unidentified found people with references to mental illness.)
 
 ## Education
 * [National Achievement Survey](http://nas.schooleduinfo.in/dashboard/nas_ncert#/): Data on the performance of students in classes 3, 5 and 8
@@ -80,7 +81,8 @@ ___
 * [AirNow](https://cfpub.epa.gov/airnow/index.cfm?action=airnow.global_summary#India$New_Delhi): Daily PM2.5 levels at US consulates and embassies
 
 ### Fires
-* [NASA FIRMS active fire data](https://firms.modaps.eosdis.nasa.gov/active_fire/#firms-txt): A global dataset of active fires in the world in the last seven days. Use VIIRS data for greater accuracy, available as .csv, .shp and .kml files. For data older than the last week, use the [FIRMS archive download](https://firms.modaps.eosdis.nasa.gov/download/)
+* [NASA FIRMS active fire data](https://firms.modaps.eosdis.nasa.gov/active_fire/#firms-txt): A global dataset of active fires in the world in the last seven days. Use VIIRS data for greater accuracy, available as .csv, .shp and .kml files.
+    * FIRMS archive download](https://firms.modaps.eosdis.nasa.gov/download/): For data older than the last week
 
 ### Precipitation and rainfall
 * [Indian Meteorological Department](http://www.imd.gov.in/Welcome%20To%20IMD/Welcome.php)
