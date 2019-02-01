@@ -1,5 +1,5 @@
 # india-data-sources
-Here are some sources for publicly-available data about India; governmental, research and more. To add to this list, please submit a pull request. 
+Here are some sources for data about India; governmental, research and more. To add to this list, please submit a pull request. 
 
 *Please do NOT add data sources containing personal identifying information (e.g. people's contact/biometric information, addresses etc.) or otherwise private data that you are not authorized to share.*
 
