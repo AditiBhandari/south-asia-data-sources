@@ -14,6 +14,9 @@ ___
 * [BoxOfficeMojo](https://www.boxofficemojo.com/)
 * [BookMyShow](https://in.bookmyshow.com/)
 
+## Crime
+* [ZipNet Project](http://zipnet.in/): ZipNet collects data from a handful of states about [stolen vehicles](http://zipnet.in/index.php?page=stolen_vehicles), [unclaimed/seized vehicles](http://zipnet.in/index.php?page=un_identified_vehicles_search&criteria=browse_all) and [missing mobile phones](http://zipnet.in/index.php?page=missing_mobile_phones). (cw: death/dead bodies, mental illness – this portal also has databases of unidentified dead bodies with their photos, and unidentified found people with references to mental illness.)
+
 ## Education
 * [National Achievement Survey](http://nas.schooleduinfo.in/dashboard/nas_ncert#/): Data on the performance of students in classes 3, 5 and 8
 * [School Report Cards](http://schoolreportcards.in/SRC-New/)
