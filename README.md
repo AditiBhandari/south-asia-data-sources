@@ -21,7 +21,9 @@ ___
 ## Education
 * [National Achievement Survey](http://nas.schooleduinfo.in/dashboard/nas_ncert#/): Data on the performance of students in classes 3, 5 and 8
 * [School Report Cards](http://schoolreportcards.in/SRC-New/) from U-DISE: Database of all public and private schools in the country.
-* Delhi Government Edudel portal: [Daily attendance of students and teachers in the city's government schools](http://www.edudel.nic.in/mis/eis/attendance/frmAttendanceLink.HTML) and [details on government schools in Delhi](http://www.edudel.nic.in/mis/schoolplant/school_information.htm) 
+* Delhi Government Edudel portal:
+    * [Daily attendance of students and teachers in the city's government schools](http://www.edudel.nic.in/mis/eis/attendance/frmAttendanceLink.HTML)
+    * [Details of Delhi government schools](http://www.edudel.nic.in/mis/schoolplant/school_information.htm) 
 
 ## Economy
 * [Centre for Monitoring Indian Economy](https://www.cmie.com/)
