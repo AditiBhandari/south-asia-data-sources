@@ -73,6 +73,7 @@ ___
 * [Facebook Transparency Report](https://transparency.facebook.com/government-data-requests/country/IN)
 
 ## Terrorism
+* [Armed Conflict Location & Event Data Project (ACLED)](https://www.acleddata.com/data/): ACLED collects and maps data on incidences of protests and political violence in South Asia and the rest of the world. [Use the ACLED codebook](https://www.acleddata.com/wp-content/uploads/2017/12/ACLED_Codebook_2017FINAL.pdf) for more information on the data itself.
 * [South Asian Terrorism Portal](http://www.satp.org/datasheet-terrorist-attack/india)
 
 ## Tourism
