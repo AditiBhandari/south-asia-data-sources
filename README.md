@@ -69,6 +69,9 @@ ___
 * [PRS Database on MPs](http://www.prsindia.org/mptrack): See attendance and participation for every Member of the Parliament
 * [Rajya Sabha Q&A](http://164.100.47.5/qsearch/qsearch.aspx)
 
+## Shapefiles
+* [Natural Earth Data](https://www.naturalearthdata.com/downloads/): Free downloads of cultural, physical and raster data for India and the rest of the world
+
 ## Technology
 * [Facebook Transparency Report](https://transparency.facebook.com/government-data-requests/country/IN)
 
