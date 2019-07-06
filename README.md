@@ -72,6 +72,11 @@ ___
 * [PRS Database on MPs](http://www.prsindia.org/mptrack): See attendance and participation for every Member of the Parliament
 * [Rajya Sabha Q&A](http://164.100.47.5/qsearch/qsearch.aspx)
 
+## Sports
+
+### Cricket
+* [ESPN CricInfo](http://stats.espncricinfo.com/ci/engine/records/index.html)
+
 ## Shapefiles
 * [Natural Earth Data](https://www.naturalearthdata.com/downloads/): Free downloads of cultural, physical and raster data for India and the rest of the world
 
