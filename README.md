@@ -48,6 +48,9 @@ ___
 ### Agriculture
 * [United Nations Food and Agriculture Organization](http://www.fao.org/faostat/en/?#data/QC)
 
+### Land
+* [Protected Planet](https://www.protectedplanet.net/search?country=India): Data on protected land and water areas from the UN's World Commission on Protected Areas
+
 ### Wildlife
 * [Ministry of Environment, Forest and Climate Change](http://www.moef.nic.in/publications-report): Publications and Reports
 * [Wildlife Crime Control Bureau](http://wccb.gov.in/index.aspx)
@@ -92,9 +95,10 @@ ___
 * [Ministry of Tourism](http://tourism.gov.in/market-research-and-statistics)
 
 ## Transportation
-* [Open Street Data: Delhi](https://otd.delhi.gov.in/data/static/): IIT-Delhi and Delhi's Department of Transportation provides static data on transit and makes real-time data available for download
 * [FlightAware](https://uk.flightaware.com/): International flight tracking data and information
+* [Open Street Data: Delhi](https://otd.delhi.gov.in/data/static/): IIT-Delhi and Delhi's Department of Transportation provides static data on transit and makes real-time data available for download
 * [Open Transit Delhi](https://otd.delhi.gov.in/): Real time data on buses in Delhi
+* [Uber Movement](https://movement.uber.com/?lang=en-US): Uber data on travel times in cities around the world
 
 ## Weather and climate
 
