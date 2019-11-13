@@ -35,6 +35,7 @@ ___
 ## Economy
 * [Agmarket](http://agmarknet.gov.in/): Database on the MSPs of several commodities in different Indian markets
 * [Centre for Monitoring Indian Economy](https://www.cmie.com/)
+* [Comtrade](https://comtrade.un.org/): UN global trade data and statistics
 * [Reserve Bank of India](https://rbi.org.in/Scripts/Statistics.aspx): A list of RBI data releases
     * [Database on Indian Economy](https://dbie.rbi.org.in/DBIE/dbie.rbi?site=home): RBI's database of the Indian economy (banking, price,s income etc.)
 * [Open Budgets India](https://openbudgetsindia.org/): Repository for state government budgets
