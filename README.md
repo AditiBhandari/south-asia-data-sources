@@ -129,6 +129,9 @@ ___
 * [NASA EOSDIS Worldview](https://worldview.earthdata.nasa.gov/?p=geographic&l=VIIRS_SNPP_CorrectedReflectance_TrueColor,VIIRS_SNPP_Fires_375m_Day,VIIRS_SNPP_Fires_375m_Night,Reference_Labels,Reference_Features&t=2018-11-06-T00%3A00%3A00Z&z=3&v=70.08912954288722,24.331281730634156,83.72832866837187,32.74995981153676&ab=off&as=2012-08-23T00%3A00%3A00Z&ae=2012-08-30T00%3A00%3A00Z&av=3&al=true): World satellite images available as .jpegs and .tiffs
 * [Sentinel Hub](https://sentinel-hub.com/)
 
+### Typhoons
+* [Joint Typhoon Warning Center](https://www.metoc.navy.mil/jtwc/jtwc.html): Paths and wind strength of typhoons in Asia in near-real time.
+
 ### Wind patterns
 * [Windy](https://www.windy.com/?27.242,76.778,8)
 * [Earth.NullSchool](https://earth.nullschool.net/#current/wind/surface/level/orthographic=-282.52,25.92,1541/loc=76.176,26.928)
