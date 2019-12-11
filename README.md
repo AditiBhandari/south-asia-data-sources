@@ -35,6 +35,7 @@ ___
 ## Economy
 * [Agmarket](http://agmarknet.gov.in/): Database on the MSPs of several commodities in different Indian markets
 * [Centre for Monitoring Indian Economy](https://www.cmie.com/)
+* [Comtrade](https://comtrade.un.org/): UN global trade data and statistics
 * [Reserve Bank of India](https://rbi.org.in/Scripts/Statistics.aspx): A list of RBI data releases
     * [Database on Indian Economy](https://dbie.rbi.org.in/DBIE/dbie.rbi?site=home): RBI's database of the Indian economy (banking, price,s income etc.)
 * [Open Budgets India](https://openbudgetsindia.org/): Repository for state government budgets
@@ -55,6 +56,9 @@ ___
 * [Ministry of Environment, Forest and Climate Change](http://www.moef.nic.in/publications-report): Publications and Reports
 * [Wildlife Crime Control Bureau](http://wccb.gov.in/index.aspx)
 * [Wildlife Protection Society of India](http://www.wpsi-india.org/crime_maps/index.php)
+
+## Food
+* [MandiGuru](https://www.mandiguru.co.in/daily-bhav/maharashtra): Daily vegetable market rates in Maharashtra, Rajasthan, Andhra Pradesh, Uttar Pradesh and Madhya Pradesh
 
 ## Health
 * [National Family Health Survey](http://rchiips.org/NFHS/factsheet_NFHS-4.shtml)
@@ -127,6 +131,9 @@ ___
 ### Satellite imagery
 * [NASA EOSDIS Worldview](https://worldview.earthdata.nasa.gov/?p=geographic&l=VIIRS_SNPP_CorrectedReflectance_TrueColor,VIIRS_SNPP_Fires_375m_Day,VIIRS_SNPP_Fires_375m_Night,Reference_Labels,Reference_Features&t=2018-11-06-T00%3A00%3A00Z&z=3&v=70.08912954288722,24.331281730634156,83.72832866837187,32.74995981153676&ab=off&as=2012-08-23T00%3A00%3A00Z&ae=2012-08-30T00%3A00%3A00Z&av=3&al=true): World satellite images available as .jpegs and .tiffs
 * [Sentinel Hub](https://sentinel-hub.com/)
+
+### Typhoons
+* [Joint Typhoon Warning Center](https://www.metoc.navy.mil/jtwc/jtwc.html): Paths and wind strength of typhoons in Asia in near-real time.
 
 ### Wind patterns
 * [Windy](https://www.windy.com/?27.242,76.778,8)
