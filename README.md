@@ -57,6 +57,9 @@ ___
 * [Wildlife Crime Control Bureau](http://wccb.gov.in/index.aspx)
 * [Wildlife Protection Society of India](http://www.wpsi-india.org/crime_maps/index.php)
 
+## Food
+* [MandiGuru](https://www.mandiguru.co.in/daily-bhav/maharashtra): Daily vegetable market rates in Maharashtra, Rajasthan, Andhra Pradesh, Uttar Pradesh and Madhya Pradesh
+
 ## Health
 * [National Family Health Survey](http://rchiips.org/NFHS/factsheet_NFHS-4.shtml)
 * [US Travel Advisories](https://wwwnc.cdc.gov/travel/notices)
