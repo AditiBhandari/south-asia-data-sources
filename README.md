@@ -86,6 +86,7 @@ ___
 
 ## Shapefiles
 * [Natural Earth Data](https://www.naturalearthdata.com/downloads/): Free downloads of cultural, physical and raster data for India and the rest of the world
+* [Telangana Shapefiles](https://data.telangana.gov.in/story/telangana-district-mandal-and-revenue-shape-files): State, district, mandal and revenue shapefiles
 
 ## Technology
 * [Facebook Transparency Report](https://transparency.facebook.com/government-data-requests/country/IN)
