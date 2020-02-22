@@ -13,6 +13,7 @@ ___
 ## Art and entertainment
 * [BoxOfficeMojo](https://www.boxofficemojo.com/)
 * [BookMyShow](https://in.bookmyshow.com/)
+* [The Indian Movie Database](https://github.com/pncnmnp/TIMDB/): Dataset of Bollywood movies from 1950-2019 aggregating information from IMDB and MovieLens
 
 ## Crime
 * National Crime Records Bureau:
@@ -36,24 +37,31 @@ ___
 * [Agmarket](http://agmarknet.gov.in/): Database on the MSPs of several commodities in different Indian markets
 * [Centre for Monitoring Indian Economy](https://www.cmie.com/)
 * [Comtrade](https://comtrade.un.org/): UN global trade data and statistics
+* [IMF Database of Interwar Debt](https://www.imf.org/en/Publications/WP/Issues/2019/10/25/Instruments-of-Debtstruction-A-New-Database-of-Interwar-Debt-48689): Data on outstanding debt amounts and qualitative information such as instrument type, coupon rate, maturity, and currency of issue
 * [Open Budgets India](https://openbudgetsindia.org/): Repository for state government budgets
 * [Reserve Bank of India](https://rbi.org.in/Scripts/Statistics.aspx): A list of RBI data releases
     * [Database on Indian Economy](https://dbie.rbi.org.in/DBIE/dbie.rbi?site=home): RBI's database of the Indian economy (banking, price,s income etc.)
 * [SHRUG](http://www.devdatalab.org/atlas): Socioeconomic High-resolution Rural-Urban Geographic data for India
+* [Standardized World Income Inequality Database](https://fsolt.org/swiid/): Compare Gini indices of disposable and market income inequality for 196 countries
 * [Union Budget](https://www.indiabudget.gov.in/)
 
 ## Energy
 * [Council on Energy, Environment and Water](https://www.ceew.in/publications): A South Asian non-profit policy research institution
+* [Rural Electricity Demand in India survey data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1ZNLUY): Data on 10,000 households and 2,000 rural enterprises across 200 villages in Bihar, Uttar Pradesh, Odisha and Rajasthan
 
 ## Environment and nature
 
 ### Agriculture
-* [United Nations Food and Agriculture Organization](http://www.fao.org/faostat/en/?#data/QC)
+* [United Nations Food and Agriculture Organization](http://www.fao.org/faostat/en/?#data/QC): Annual harvest area, production quantity and yield data for food items and categories by country and geographic regions since 1961
+
+### Environmental agreements
+* [International Environmental Agreements](https://iea.uoregon.edu/country-members/India): Database of thousands of multilateral and bilateral environmental agreements with data on country membership, performance data, secretariat and summary statistics. Includes data on [pre-1947 India](https://iea.uoregon.edu/country-members/India%20%28pre-1947%29)
 
 ### Land
 * [Protected Planet](https://www.protectedplanet.net/search?country=India): Data on protected land and water areas from the UN's World Commission on Protected Areas
 
 ### Wildlife
+* [Birding2Asia recordings](https://www.birding2asia.com/W2W/FBS/India.html): A list of bird recording compilations across India
 * [Ministry of Environment, Forest and Climate Change](http://www.moef.nic.in/publications-report): Publications and Reports
 * [Wildlife Crime Control Bureau](http://wccb.gov.in/index.aspx)
 * [Wildlife Protection Society of India](http://www.wpsi-india.org/crime_maps/index.php)
@@ -65,6 +73,9 @@ ___
 * [National Family Health Survey](http://rchiips.org/NFHS/factsheet_NFHS-4.shtml)
 * [US Travel Advisories](https://wwwnc.cdc.gov/travel/notices)
 * [Weekly Disease Outbreaks](https://idsp.nic.in/index4.php?lang=1&level=0&linkid=406&lid=3689): The National Centre for Disease Control publishes weekly summaries of disease outbreaks in the country
+
+## History
+* [Imperial Roots of Global Trade](https://www.wnvermeulen.com/empires/index.php): A brief economic dataset of 150+ historical empires and the modern day countries associated with them
 
 ## Politics and government
 
@@ -85,8 +96,9 @@ ___
 ### Cricket
 * [ESPN CricInfo](http://stats.espncricinfo.com/ci/engine/records/index.html)
 
-## Shapefiles
+## Shapefiles and terrain
 * [Natural Earth Data](https://www.naturalearthdata.com/downloads/): Free downloads of cultural, physical and raster data for India and the rest of the world
+* [South Asia Shaded Relief](http://www.shadedreliefarchive.com/SC_Asia_CIA.html): Provided by the CIA, aggregated as part of the Shaded Relief Archive
 * [Telangana Shapefiles](https://data.telangana.gov.in/story/telangana-district-mandal-and-revenue-shape-files): State, district, mandal and revenue shapefiles
 
 ## Technology
@@ -120,6 +132,9 @@ ___
 * [Air Quality Life Index](https://aqli.epic.uchicago.edu/the-index/): Global data on the analysis of air quality and life expectancy by the Energy Policy Institute at the University of Chicago
 * [AirNow](https://cfpub.epa.gov/airnow/index.cfm?action=airnow.global_summary#India$New_Delhi): Daily PM2.5 levels at US consulates and embassies
 * [Urban Emissions](http://www.urbanemissions.info/)
+
+### Climate change
+* [Climate Action Tracker](https://climateactiontracker.org/countries/india/): This collaboration between Climate Analytics and New Climate Institute tracks several climate change indicators for 32 countries, including compatibility with 1.5°C and 2°C global warming targets
 
 ### Fires
 * [NASA FIRMS active fire data](https://firms.modaps.eosdis.nasa.gov/active_fire/#firms-txt): A global dataset of active fires in the world in the last seven days. Use VIIRS data for greater accuracy, available as .csv, .shp and .kml files
