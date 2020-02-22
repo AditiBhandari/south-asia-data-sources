@@ -138,7 +138,7 @@ ___
 
 ### Fires
 * [NASA FIRMS active fire data](https://firms.modaps.eosdis.nasa.gov/active_fire/#firms-txt): A global dataset of active fires in the world in the last seven days. Use VIIRS data for greater accuracy, available as .csv, .shp and .kml files
-    * FIRMS archive download](https://firms.modaps.eosdis.nasa.gov/download/): For data older than the last week
+    * [FIRMS archive download](https://firms.modaps.eosdis.nasa.gov/download/): For data older than the last week
 
 ### Precipitation and rainfall
 * [IMD Pune (has national data)](http://www.imdpune.gov.in/)
