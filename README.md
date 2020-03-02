@@ -47,6 +47,8 @@ ___
 
 ## Energy
 * [Council on Energy, Environment and Water](https://www.ceew.in/publications): A South Asian non-profit policy research institution
+* [Global Coal Plant Tracker](https://endcoal.org/tracker/): Global Energy Monitor tracks 12,000+ operational, retired and under-development coal plants across the globe
+* [Global Fossil projects Tracker](https://greeninfo-network.github.io/fossil_tracker/): Global Energy Monitor tracks 2,000+ coal and gas terminals, and oil and gas pipelines across the globe
 * [Rural Electricity Demand in India survey data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1ZNLUY): Data on 10,000 households and 2,000 rural enterprises across 200 villages in Bihar, Uttar Pradesh, Odisha and Rajasthan
 
 ## Environment and nature
