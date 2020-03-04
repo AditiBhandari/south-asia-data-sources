@@ -137,6 +137,7 @@ ___
 
 ### Climate change
 * [Climate Action Tracker](https://climateactiontracker.org/countries/india/): This collaboration between Climate Analytics and New Climate Institute tracks several climate change indicators for 32 countries, including compatibility with 1.5°C and 2°C global warming targets
+* [Climate Policy Database](http://climatepolicydatabase.org/index.php/Country:India): A database of climate policies for almost every country
 
 ### Fires
 * [NASA FIRMS active fire data](https://firms.modaps.eosdis.nasa.gov/active_fire/#firms-txt): A global dataset of active fires in the world in the last seven days. Use VIIRS data for greater accuracy, available as .csv, .shp and .kml files
