@@ -100,6 +100,7 @@ ___
 * [ESPN CricInfo](http://stats.espncricinfo.com/ci/engine/records/index.html)
 
 ## Shapefiles and terrain
+* [Bharat Maps](https://bharatmaps.gov.in/map.aspx): Shapefiles and data from the National Informatics Centre
 * [Natural Earth Data](https://www.naturalearthdata.com/downloads/): Free downloads of cultural, physical and raster data for India and the rest of the world
 * [South Asia Shaded Relief](http://www.shadedreliefarchive.com/SC_Asia_CIA.html): Provided by the CIA, aggregated as part of the Shaded Relief Archive
 * [Telangana Shapefiles](https://data.telangana.gov.in/story/telangana-district-mandal-and-revenue-shape-files): State, district, mandal and revenue shapefiles
