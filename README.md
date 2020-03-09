@@ -38,6 +38,7 @@ ___
 * [Centre for Monitoring Indian Economy](https://www.cmie.com/)
 * [Comtrade](https://comtrade.un.org/): UN global trade data and statistics
 * [IMF Database of Interwar Debt](https://www.imf.org/en/Publications/WP/Issues/2019/10/25/Instruments-of-Debtstruction-A-New-Database-of-Interwar-Debt-48689): Data on outstanding debt amounts and qualitative information such as instrument type, coupon rate, maturity, and currency of issue
+* [Ministry of Commerce and Industry](https://commerce-app.gov.in/eidb/default.asp): Commodity-wise import and export data
 * [Open Budgets India](https://openbudgetsindia.org/): Repository for state government budgets
 * [Reserve Bank of India](https://rbi.org.in/Scripts/Statistics.aspx): A list of RBI data releases
     * [Database on Indian Economy](https://dbie.rbi.org.in/DBIE/dbie.rbi?site=home): RBI's database of the Indian economy (banking, price,s income etc.)
