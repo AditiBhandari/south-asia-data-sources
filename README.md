@@ -73,6 +73,7 @@ ___
 * [MandiGuru](https://www.mandiguru.co.in/daily-bhav/maharashtra): Daily vegetable market rates in Maharashtra, Rajasthan, Andhra Pradesh, Uttar Pradesh and Madhya Pradesh
 
 ## Health
+* [Global Health Security Index](https://www.ghsindex.org/country/india/): A comprehensive assessment of how countries compare to each other in their ability to prevent, detect and respond to global epidemics in terms of their health systems, compliance with international norms and overall risk factors
 * [National Family Health Survey](http://rchiips.org/NFHS/factsheet_NFHS-4.shtml)
 * [US Travel Advisories](https://wwwnc.cdc.gov/travel/notices)
 * [Weekly Disease Outbreaks](https://idsp.nic.in/index4.php?lang=1&level=0&linkid=406&lid=3689): The National Centre for Disease Control publishes weekly summaries of disease outbreaks in the country
