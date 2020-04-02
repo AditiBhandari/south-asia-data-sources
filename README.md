@@ -113,8 +113,9 @@ ___
 * [Armed Conflict Location & Event Data Project (ACLED)](https://www.acleddata.com/data/): ACLED collects and maps data on incidences of protests and political violence in South Asia and the rest of the world. [Use the ACLED codebook](https://www.acleddata.com/wp-content/uploads/2017/12/ACLED_Codebook_2017FINAL.pdf) for more information on the data itself.
 * [South Asian Terrorism Portal](http://www.satp.org/datasheet-terrorist-attack/india)
 
-## Tourism
+## Tourism and travel
 * [Indian UNESCO Heritage Sites](https://whc.unesco.org/en/soc/?action=list&id_search_state=73)
+* [Migration Policy Centre](http://www.migrationpolicycentre.eu/globalmobilities/dataset/): Global Visa Cost Dataset based on 2019 data from government websites, in US dollars
 * [Ministry of Tourism](http://tourism.gov.in/market-research-and-statistics)
 
 ## Transportation
