@@ -16,7 +16,7 @@ ___
 * [The Indian Movie Database](https://github.com/pncnmnp/TIMDB/): Dataset of Bollywood movies from 1950-2019 aggregating information from IMDB and MovieLens
 
 ## Civil Society
-* [FCRA Disclosures](https://fcraonline.nic.in/home/index.aspx)  Database of associations registered under the Foreign Contributions Regulation Act (FCRA) and [quarterly disclosures](https://fcraonline.nic.in/fc_qtrfrm_report.aspx) of foreign contributions to those organizations
+* [FCRA Disclosures](https://fcraonline.nic.in/home/index.aspx): Database of associations registered under the Foreign Contributions Regulation Act (FCRA) and [quarterly disclosures](https://fcraonline.nic.in/fc_qtrfrm_report.aspx) of foreign contributions to those organizations
 
 ## Crime
 * National Crime Records Bureau:
@@ -25,7 +25,6 @@ ___
     * Fingerprint in India: Performance reports of state/union territory and central fingerprinting bureaus: [Fingerprinting reports in 2016](http://164.100.44.112:8888/pdf/FP_in_India/English/FPI-2016.pdf) and [Fingerprinting reports in 2012-2015](http://164.100.44.112:8888/fp_india_english.aspx)
     * Prison Statistics in India (PSI): [Prison statistics in 2017](http://www.ncrb.gov.in/StatPublications/PSI/Prison2017/PrisonStat2017.htm) and [prison statistics in 1995–2016](http://ncrb.gov.in/StatPublications/PSI/PrevPublications.htm), and the [proforma for prison statistics](http://ncrb.gov.in/StatPublications/PSI/PSI-Proforma/PSI_Proforma_English.pdf)
     * [Proforma for Anti-Human Trafficking](http://ncrb.gov.in/StatPublications/Anti-Human-Trafficking-AHT/AHT%20Proforma%20v1%20English.pdf)
-
 * [ZipNet Project](http://zipnet.in/): ZipNet collects data from a handful of states about [stolen vehicles](http://zipnet.in/index.php?page=stolen_vehicles), [unclaimed/seized vehicles](http://zipnet.in/index.php?page=un_identified_vehicles_search&criteria=browse_all) and [missing mobile phones](http://zipnet.in/index.php?page=missing_mobile_phones).
     (cw: death/dead bodies, mental illness – this portal also has databases of unidentified dead bodies with their photos, and unidentified found people with references to mental illness)
 
