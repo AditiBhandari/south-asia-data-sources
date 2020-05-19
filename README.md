@@ -151,7 +151,7 @@ ___
     * [FIRMS archive download](https://firms.modaps.eosdis.nasa.gov/download/): For data older than the last week
 
 ### Precipitation and rainfall
-* [IMD Pune (has national data)](http://www.imdpune.gov.in/)
+* [IMD Pune](http://www.imdpune.gov.in/): National data on precipitation and rainfall
 * [Indian Meteorological Department](http://www.imd.gov.in/Welcome%20To%20IMD/Welcome.php)
 * [US NOAA](https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/by_year/): Daily precipitation data for thousands of stations across India
 
