@@ -1,5 +1,5 @@
 # india-data-sources
-Here are some sources for data about India; governmental, research and more. To add to this list, please submit a pull request. 
+Here are some sources for data about India; governmental, research and more. To add to this list, please submit a pull request.
 
 *Please do NOT add data sources containing personal identifying information (e.g. people's contact/biometric information, addresses etc.) or otherwise private data that you are not authorized to share.*
 
@@ -15,6 +15,9 @@ ___
 * [BookMyShow](https://in.bookmyshow.com/)
 * [The Indian Movie Database](https://github.com/pncnmnp/TIMDB/): Dataset of Bollywood movies from 1950-2019 aggregating information from IMDB and MovieLens
 
+## Civil Society
+* [FCRA Disclosures](https://fcraonline.nic.in/home/index.aspx)  Database of associations registered under the Foreign Contributions Regulation Act (FCRA) and [quarterly disclosures](https://fcraonline.nic.in/fc_qtrfrm_report.aspx) of foreign contributions to those organizations
+
 ## Crime
 * National Crime Records Bureau:
     * Accidental Deaths and Suicides in India (ADSI): [Accidental deaths and suicides in 2015](http://ncrb.gov.in/StatPublications/ADSI/ADSI2015/ADSI2015.asp) and [accidental deaths and suicides in 1967–2014](http://ncrb.gov.in/StatPublications/ADSI/PrevPublications.htm), and the [proforma for accidental deaths and suicides](http://ncrb.gov.in/StatPublications/ADSI/ADSI-Proforma/ADSI%20R2%20ENGLISH%20PROFORMA.pdf)
@@ -22,14 +25,14 @@ ___
     * Fingerprint in India: Performance reports of state/union territory and central fingerprinting bureaus: [Fingerprinting reports in 2016](http://164.100.44.112:8888/pdf/FP_in_India/English/FPI-2016.pdf) and [Fingerprinting reports in 2012-2015](http://164.100.44.112:8888/fp_india_english.aspx)
     * Prison Statistics in India (PSI): [Prison statistics in 2017](http://www.ncrb.gov.in/StatPublications/PSI/Prison2017/PrisonStat2017.htm) and [prison statistics in 1995–2016](http://ncrb.gov.in/StatPublications/PSI/PrevPublications.htm), and the [proforma for prison statistics](http://ncrb.gov.in/StatPublications/PSI/PSI-Proforma/PSI_Proforma_English.pdf)
     * [Proforma for Anti-Human Trafficking](http://ncrb.gov.in/StatPublications/Anti-Human-Trafficking-AHT/AHT%20Proforma%20v1%20English.pdf)
-    
+
 * [ZipNet Project](http://zipnet.in/): ZipNet collects data from a handful of states about [stolen vehicles](http://zipnet.in/index.php?page=stolen_vehicles), [unclaimed/seized vehicles](http://zipnet.in/index.php?page=un_identified_vehicles_search&criteria=browse_all) and [missing mobile phones](http://zipnet.in/index.php?page=missing_mobile_phones).
     (cw: death/dead bodies, mental illness – this portal also has databases of unidentified dead bodies with their photos, and unidentified found people with references to mental illness)
 
 ## Education
 * Delhi Government Edudel portal:
     * [Daily attendance of students and teachers in the city's government schools](http://www.edudel.nic.in/mis/eis/attendance/frmAttendanceLink.HTML)
-    * [Details of Delhi government schools](http://www.edudel.nic.in/mis/schoolplant/school_information.htm) 
+    * [Details of Delhi government schools](http://www.edudel.nic.in/mis/schoolplant/school_information.htm)
 * [National Achievement Survey](http://nas.schooleduinfo.in/dashboard/nas_ncert#/): Data on the performance of students in classes 3, 5 and 8
 * [School Report Cards](http://schoolreportcards.in/SRC-New/) from U-DISE: Database of all public and private schools in the country.
 
@@ -37,6 +40,7 @@ ___
 * [Agmarket](http://agmarknet.gov.in/): Database on the MSPs of several commodities in different Indian markets
 * [Centre for Monitoring Indian Economy](https://www.cmie.com/)
 * [Comtrade](https://comtrade.un.org/): UN global trade data and statistics
+* [Corporate Social Responsibility Spending](https://www.csr.gov.in): Disclosures of corporate social responsibility (CSR) expenditures under Section 135 of the Companies Act, 2013
 * [IMF Database of Interwar Debt](https://www.imf.org/en/Publications/WP/Issues/2019/10/25/Instruments-of-Debtstruction-A-New-Database-of-Interwar-Debt-48689): Data on outstanding debt amounts and qualitative information such as instrument type, coupon rate, maturity, and currency of issue
 * [Ministry of Commerce and Industry](https://commerce-app.gov.in/eidb/default.asp): Commodity-wise import and export data
 * [Open Budgets India](https://openbudgetsindia.org/): Repository for state government budgets
