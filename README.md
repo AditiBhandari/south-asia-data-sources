@@ -40,6 +40,7 @@ ___
 * [Centre for Monitoring Indian Economy](https://www.cmie.com/)
 * [Comtrade](https://comtrade.un.org/): UN global trade data and statistics
 * [Corporate Social Responsibility Spending](https://www.csr.gov.in): Disclosures of corporate social responsibility (CSR) expenditures under Section 135 of the Companies Act, 2013
+* [Design of Trade Agreements](https://www.designoftradeagreements.org/downloads/): Project collecting data about international trade agreements including treaty name, treaty type and regions involved
 * [IMF Database of Interwar Debt](https://www.imf.org/en/Publications/WP/Issues/2019/10/25/Instruments-of-Debtstruction-A-New-Database-of-Interwar-Debt-48689): Data on outstanding debt amounts and qualitative information such as instrument type, coupon rate, maturity, and currency of issue
 * [Ministry of Commerce and Industry](https://commerce-app.gov.in/eidb/default.asp): Commodity-wise import and export data
 * [Open Budgets India](https://openbudgetsindia.org/): Repository for state government budgets
