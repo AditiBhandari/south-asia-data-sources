@@ -7,6 +7,7 @@ ___
 
 ## General data sources
 * [Indian Government data dashboard](https://data.gov.in/)
+* [India Data Handbook](https://indiadatahub.com/databook): A pay-what-you-like collection of more than 2,000 data indicators about India
 * [Ministry of Statistics and Programme Implementation](http://www.mospi.gov.in/)
 
 ___
