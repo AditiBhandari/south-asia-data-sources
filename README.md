@@ -1,14 +1,18 @@
-# india-data-sources
-Here are some sources for data about India; governmental, research and more. To add to this list, please submit a pull request.
+# south-asia-data-sources
+Here are some sources for data about India and the South Asian subcontinent; governmental, research and more. To add to this list, please submit a pull request.
 
 *Please do NOT add data sources containing personal identifying information (e.g. people's contact/biometric information, addresses etc.) or otherwise private data that you are not authorized to share.*
 
 ___
 
 ## General data sources
+### India
 * [Indian Government data dashboard](https://data.gov.in/)
 * [India Data Handbook](https://indiadatahub.com/databook): A pay-what-you-like collection of more than 2,000 data indicators about India
 * [Ministry of Statistics and Programme Implementation](http://www.mospi.gov.in/)
+
+### Bangladesh
+* [Bangladesh Bureau of Statistics](http://www.bbs.gov.bd/site/page/c025afd8-1773-484b-a15a-e5a31e5e27c5/-)
 
 ___
 ## Art and entertainment
@@ -99,6 +103,15 @@ ___
 * [PM Modi's speeches](http://pib.nic.in/PMContents/PMContents.aspx?menuid=2&Lang=1&RegionId=1)
 * [PRS Database on MPs](http://www.prsindia.org/mptrack): See attendance and participation for every Member of the Parliament
 * [Rajya Sabha Q&A](http://164.100.47.5/qsearch/qsearch.aspx)
+
+### Social demographics
+* [Ethnic Power Relations](https://icr.ethz.ch/data/epr/#core): A collection of six dataset created by the Swiss Institute Technology about ethnic groups in the world:
+    * [Access to state power](https://icr.ethz.ch/data/epr/core/)
+    * [Settlement patterns](https://icr.ethz.ch/data/epr/geoepr/) (shapefile available)
+    * [Conflicts between groups](https://icr.ethz.ch/data/epr/acd2epr/)
+    * [Groups spread across international borders](https://icr.ethz.ch/data/epr/tek/)
+    * [Language, religion and race](https://icr.ethz.ch/data/epr/ed/)
+    * [Ethnicity of refugee groups](https://icr.ethz.ch/data/epr/er/)
 
 ## Sports
 
