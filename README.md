@@ -70,6 +70,8 @@ ___
 * [International Environmental Agreements](https://iea.uoregon.edu/country-members/India): Database of thousands of multilateral and bilateral environmental agreements with data on country membership, performance data, secretariat and summary statistics. Includes data on [pre-1947 India](https://iea.uoregon.edu/country-members/India%20%28pre-1947%29)
 
 ### Land
+* [Global 2010 Tree Cover](https://glad.umd.edu/dataset/global-2010-tree-cover-30-m): 30m .tifs of the estimated 2010 tree canopy cover from the [Global Land Analysis and Discovery (GLAD)](https://glad.umd.edu/) laboratory at the University of Maryland
+* [Mining areas](https://www.fineprint.global/resources/mining-areas/): Polygon data of global surface areas dedicated to mining coal and metal ores from the Fineprint project at the Vienna University of Economics and Business
 * [Protected Planet](https://www.protectedplanet.net/search?country=India): Data on protected land and water areas from the UN's World Commission on Protected Areas
 
 ### Wildlife
